@@ -1,6 +1,6 @@
 site_name: Bootcamp
 theme:
-  name: 'basictheme'
+  name: 'mkdocs'
   palette:
     primary: "blue grey"
     accent: "blue"
