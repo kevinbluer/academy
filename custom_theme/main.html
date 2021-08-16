@@ -2,8 +2,11 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+    <link href="{{ 'style.css'|url }}" rel="stylesheet">
   </head>
   <body>
     {{ page.content }}
+    <br />
+    <p>Edit this page on Github</p>
   </body>
 </html>
