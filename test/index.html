@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Testing... - Bootcamp</title>
+    <link href="../style.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js" async></script>
+    <script src="../text-bounce.js" async></script>
+  </head>
+  <body>
+    <h1 id="testing">Testing...</h1>
+<p>Use this page for hacking around with MD :)</p>
+<div class="img-wrapper">
+    <img src="img/ag-blockchain-1.png'">
+</div>
+
+<pre><code class="language-solidity">// SPDX-License-Identifier: MIT
+pragma solidity &gt;=0.4.22 &lt;0.8.0;
+
+import &quot;@openzeppelin/contracts/token/ERC721/ERC721.sol&quot;;
+import &quot;@openzeppelin/contracts/utils/Counters.sol&quot;;
+import &quot;@openzeppelin/contracts/token/ERC721/ERC721Burnable.sol&quot;;
+
+contract MFT is ERC721, ERC721Burnable {
+    using Counters for Counters.Counter;
+    Counters.Counter private _id;
+
+    constructor() ERC721(&quot;Truffle Creator&quot;, &quot;TRFL&quot;) public {
+        _setBaseURI(&quot;ipfs://&quot;);
+    }
+
+    function mint(address owner, string memory cid) public returns (uint256) {
+
+        _id.increment();
+
+        uint256 newId = _id.current();
+        _mint(owner, newId);
+        _setTokenURI(newId, cid);
+
+        return newId;
+    }
+}
+</code></pre>
+    <br /><div class="footer">
+    <a href="https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp/edit/main/SECTION_NUM/MODULE_NUM/LESSON_NUM/index.html" target="_blank">Edit this page on Github</a>
+    
+    <div class="discord">
+        <img class="discord-logo" src="../discord.svg" alt="Discord logo" ><a href="https://discord.gg/FrHSjSn9dX" target="_blank" >Questions? Ask on Discord! </a>  
+    </div> 
+</div>
+  </body>
+</html>
