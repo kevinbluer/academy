@@ -4,7 +4,7 @@ Hello and welcome to ConsenSys Academy’s Blockchain Developer Bootcamp, where 
       
 The blockchain field develops at an incredibly fast pace. [MORE HERE ABOUT WHAT THE RAPID PACE REQUIRES FROM DEVELOPERS, IE continous onboarding]. This course will give you a solid foundation of blockchain principles. It will also introduce you to the tools used to build blockchain projects today. It can be overwhelming to enter such a rapidly developing field.
 
-With that in mind, this course aims to teach from <a href="https://en.wikipedia.org/wiki/First_principle#Aristotle's_contribution">a first principles approach.</a>
+With that in mind, this course aims to teach from [a first principles approach](https://en.wikipedia.org/wiki/First_principle#Aristotle's_contribution).
 
 - https://explained-from-first-principles.com/
 - https://en.wikipedia.org/wiki/Reductionism
