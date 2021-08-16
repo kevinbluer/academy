@@ -1,0 +1,12 @@
+site_name: Bootcamp
+theme:
+  name: 'basictheme'
+  palette:
+    primary: "blue grey"
+    accent: "blue"
+  font:
+    text: "IBM Plex Serif"
+    code: "IBM Plex Mono"
+google_analytics:
+  - UA-262533-24
+  - auto
