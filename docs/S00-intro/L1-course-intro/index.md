@@ -1,28 +1,12 @@
-<h1>Welcome!</h1>
+# Welcome!
   
-<p>
-      Hello and welcome to ConsenSys Academy’s Blockchain Developer Bootcamp, 
-      where you will learn everything you need to know to become a world-class 
-      blockchain developer.     
-</p>
+Hello and welcome to ConsenSys Academy’s Blockchain Developer Bootcamp, where you will learn everything you need to know to become a world-class blockchain developer.
       
- <p>
+The blockchain field develops at an incredibly fast pace. [MORE HERE ABOUT WHAT THE RAPID PACE REQUIRES FROM DEVELOPERS, IE continous onboarding]. This course will give you a solid foundation of blockchain principles. It will also introduce you to the tools used to build blockchain projects today. It can be overwhelming to enter such a rapidly developing field.
 
-      The blockchain field develops at an incredibly fast pace. [MORE HERE ABOUT WHAT THE RAPID PACE REQUIRES FROM DEVELOPERS, IE continous onboarding] 
-      
-      This course will give you a solid foundation of blockchain principles. It will also introduce you to the tools used to build blockchain projects today.  
-      
-      It can be overwhelming to enter such a rapidly developing field.
-</p>
-    
-<p>
-    With that in mind, this course aims to teach from <a href="https://en.wikipedia.org/wiki/First_principle#Aristotle's_contribution">a first principles approach.</a>
+With that in mind, this course aims to teach from <a href="https://en.wikipedia.org/wiki/First_principle#Aristotle's_contribution">a first principles approach.</a>
 
-    https://explained-from-first-principles.com/
+- https://explained-from-first-principles.com/
+- https://en.wikipedia.org/wiki/Reductionism
 
-    https://en.wikipedia.org/wiki/Reductionism
-
-
-    We hope this gives you a deeper understanding of the material that can accommodate the rapid
-    change occurring in the blockchain world.
-</p>
+We hope this gives you a deeper understanding of the material that can accommodate the rapid change occurring in the blockchain world.
